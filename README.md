@@ -63,11 +63,11 @@ module "network" {
 
 ## Outputs
 - public_subnets
-    returns list of public subnet ids
+    - returns list of public subnet ids
 
 - private_subnets
-	returns list of private subnet ids 
+	- returns list of private subnet ids 
 
 - vpc_id
-	returns vpc id
+	- returns vpc id
   
